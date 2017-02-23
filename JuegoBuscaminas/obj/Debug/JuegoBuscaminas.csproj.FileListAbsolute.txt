@@ -1,0 +1,9 @@
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\bin\Debug\JuegoBuscaminas.exe.config
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\bin\Debug\JuegoBuscaminas.exe
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\bin\Debug\JuegoBuscaminas.pdb
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\obj\Debug\JuegoBuscaminas.Properties.Resources.resources
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\obj\Debug\JuegoBuscaminas.csproj.GenerateResource.Cache
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\obj\Debug\JuegoBuscaminas.exe
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\obj\Debug\JuegoBuscaminas.pdb
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\obj\Debug\JuegoBuscaminas.Principal.resources
+c:\users\pipo\documents\visual studio 2012\Projects\JuegoBuscaminas\JuegoBuscaminas\obj\Debug\JuegoBuscaminas.Form1.resources
