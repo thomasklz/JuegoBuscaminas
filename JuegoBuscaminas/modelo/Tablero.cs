@@ -89,6 +89,8 @@ namespace BuscaminaVentana
             casillas[f, c].levantada = true;
             if (casillas[f, c].num == 0 && casillas[f, c].bomba==false)
             {
+               if ((f==0) &&(c==0)){ f=1; c=1;}
+                
                 for (int i = f - 1; i <= f + 1; i++)
                 {
                     for (int j = c - 1; j <= c + 1; j++)
